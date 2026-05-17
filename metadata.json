@@ -1,0 +1,8 @@
+{
+  "name": "LeanFit - Landing Page Profissional",
+  "description": "Página de vendas premium para o aplicativo LeanFit, com foco em conversão e design moderno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
